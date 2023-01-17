@@ -1,0 +1,46 @@
+body{
+    margin: 1% 2%;
+    background-color: lavender;
+}
+
+.navbar-brand {
+    border: solid 1px grey;
+    border-radius: 100%;
+    padding: 0.5% 1%;
+    color: grey;
+}
+
+.navbar-brand:hover {
+    color: black;
+    border: solid 2px black;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.btncontacto {
+    border: solid 2px;
+    background: none;
+    color: black;
+    border-radius: 0;
+    border-color: lightcoral;
+    
+}
+
+.btncontacto:hover {
+    background: lightcoral;
+    border-color: lightcoral;
+}
+
+#btnredes {
+    color: black;
+}
+
+#btnredes:hover {
+    padding: 10px 0;
+    background: lightcoral;
+    color: white;
+}
